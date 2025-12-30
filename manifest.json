@@ -1,0 +1,24 @@
+{
+  "name": "Яндекс Музыка iOS",
+  "short_name": "YMusic iOS",
+  "description": "Музыкальное приложение с эффектом прозрачности iOS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#ff2c2c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23ff2c2c'/><path d='M30,35 L70,35 L70,45 L30,45 Z M30,55 L70,55 L70,65 L30,65 Z' fill='white'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%23ff2c2c'/><path d='M35,40 L65,40 L65,50 L35,50 Z M35,60 L65,60 L65,70 L35,70 Z' fill='white'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["music", "entertainment"],
+  "prefer_related_applications": false
+}
